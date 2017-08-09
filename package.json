@@ -1,0 +1,22 @@
+{
+  "name": "phantomcss-container",
+  "version": "0.1.0",
+  "description": "Container to run PhantomCSS screenshot tests.",
+  "scripts": {
+    "casperjs": "casperjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github,com/MartinNowak/phantomcss-container"
+  },
+  "keywords": [
+    "phantomcss",
+    "docker"
+  ],
+  "author": "Martin Nowak",
+  "license": "MIT",
+  "dependencies": {
+    "phantomcss": "^1.1.5",
+    "phantomjs-prebuilt": "^2.1.14"
+  }
+}
